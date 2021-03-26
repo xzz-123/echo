@@ -8,5 +8,5 @@ client.cpp和server.cpp组成一个基于socket编程实现的回声系统
 
 clientFile.cpp与serverFile.cpp实现的是服务器向客户端提供传输文件功能。   
 
-clientUDP,serverUDP则使用UDP协议实现回声系统，其余的使用TCP协议  
+clientUDP,serverUDP则使用UDP协议实现回声系统，其余的使用TCP协议. 
 
